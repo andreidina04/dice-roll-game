@@ -20,3 +20,5 @@ A simple and fun web application that simulates rolling one or more dice. Built 
 * **HTML5:** For the basic structure of the game.
 * **CSS3:** For styling and a clean, interactive user interface (UI).
 * **JavaScript (ES6):** For the game logic, handling rolls, and dynamic updates to the DOM.
+
+## Live Demo: https://dice-roll-game-ashen.vercel.app/
