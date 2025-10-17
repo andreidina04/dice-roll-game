@@ -4,6 +4,13 @@
     font-size: 2rem;
     font-weight: bold;
     padding: 20px 0;
+    background-color: rgb(144, 123, 219);
+    color: aliceblue;
+    width: 800px;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 0 auto;
+ box-shadow: 5px 5px 50px -1px #3700ff;
 }
 
 button {
